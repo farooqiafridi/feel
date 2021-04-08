@@ -1,11 +1,12 @@
 #! /usr/bin/env ruby
 
 <<<<<<< HEAD
-
+def hfhlo
   tus 'hello world'
- def hfhlo
+=======
 def hello
   puts 'hello na ..?'
 >>>>>>> main
 end
+
 hello()
